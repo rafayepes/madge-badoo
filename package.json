@@ -1,9 +1,9 @@
 {
-  "name": "madge",
+  "name": "madge-badoo",
   "version": "0.5.2",
   "author": "Patrik Henningsson <patrik.henningsson@gmail.com>",
-  "repository": "git://github.com/pahen/node-madge",
-  "homepage": "https://github.com/pahen/node-madge",
+  "repository": "git://github.com/rafayepes/madge-badoo",
+  "homepage": "https://github.com/rafayepes/madge-badoo",
   "license": "MIT",
   "description": "Create graphs from your CommonJS or AMD module dependencies.",
   "keywords": [
