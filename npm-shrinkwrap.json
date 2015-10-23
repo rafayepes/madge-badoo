@@ -2,18 +2,6 @@
   "name": "madge",
   "version": "0.5.1",
   "dependencies": {
-    "amdetective": {
-      "version": "0.0.2",
-      "from": "amdetective@0.0.2",
-      "resolved": "https://registry.npmjs.org/amdetective/-/amdetective-0.0.2.tgz",
-      "dependencies": {
-        "esprima": {
-          "version": "1.2.2",
-          "from": "esprima@~1.2.2",
-          "resolved": "https://registry.npmjs.org/esprima/-/esprima-1.2.2.tgz"
-        }
-      }
-    },
     "coffee-script": {
       "version": "1.3.3",
       "from": "coffee-script@1.3.3",
