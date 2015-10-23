@@ -1,6 +1,6 @@
 {
   "name": "madge-badoo",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "author": "Patrik Henningsson <patrik.henningsson@gmail.com>",
   "repository": "git://github.com/rafayepes/madge-badoo",
   "homepage": "https://github.com/rafayepes/madge-badoo",
@@ -24,7 +24,7 @@
     "test": "./node_modules/.bin/grunt"
   },
   "dependencies": {
-    "amdetective-badoo": "0.0.5",
+    "amdetective-badoo": "^0.1.0",
     "coffee-script": "1.3.3",
     "colors": "^1.1.2",
     "commander": "^2.8.1",
